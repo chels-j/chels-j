@@ -6,9 +6,10 @@ After a 5 year career in the sustainabiltiy & ESG domain, I'm transitioning to a
 Currently, I'm completing an M.Sc. in Data Science at Tilburg University. <br>
 <br>
 Here you can see some of the projects I'm working on to build my skillset in:
-- Data visualization
-- Building machine learning models
-- Data modeling & dashboarding
+- Querying, cleaning and transforming data using Python & SQL
+- Data visualization using libraries like matplotlib and seaborn
+- Building machine learning models using scikit-learn
+- Data modeling & dashboarding using Power BI
 - Designing data pipelines
 
 # Portfolio Guide
