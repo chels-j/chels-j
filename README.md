@@ -8,12 +8,6 @@ Here you can see some of the projects I'm working on to build my skillset in:
 - Data modeling & dashboarding
 - Designing data pipelines
 
-Using:
-- Python
-- SQL
-- Power BI
-- Excel
-
 # Portfolio Guide
 
 | Project Link |  Tools & Libraries | Domain | Methods | Description | 
