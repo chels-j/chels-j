@@ -10,7 +10,7 @@ I'm happiest when I can apply my knack for data-driven analysis and problem-solv
 
 Now, with an M.Sc. in Data Science from Tilburg University, I’m eager to bring my analytical skills to new domains. Beyond sustainability, I’m excited to apply my skills in Python, SQL, Power BI, machine learning and data engineering to solving problems and generating insights in sectors such as operations, marketing, HR & people analytics. <br>
 
-<b>Here you can see some of the projects I'm working on to build my skillset in:</b>
+<b>🔎 Here you can see some of the projects I've completed on to demonstrate my skillset in:</b>
 - Querying, cleaning and transforming data using Python & SQL
 - Data visualization using libraries like matplotlib and seaborn
 - Building machine learning models using scikit-learn
