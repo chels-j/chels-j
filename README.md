@@ -3,6 +3,7 @@
 <img width="7903" height="3162" alt="Data Profile Banner (4)" src="https://github.com/user-attachments/assets/5b8e4cb6-4390-419a-a41a-f6ef10719939" />
 
 After a 5 year career in the sustainabiltiy & ESG domain, I'm transitioning to a role in in data science & analytics for a variety of industries. <br>
+
 I started my career as a sustainability analyst, with a degree in environmental science and a drive to make a difference. But along the way, I discovered something unexpected: a love for data. What began with simple Excel templates soon grew into a keen interest in coding and data visualization. I excel at asking insightful questions and using structured problem-solving, clean code and easy to read visuals to answer them. <br>
 
 I'm happiest when I can apply my knack for data-driven analysis and problem-solving with writing. With 5+ years of experience in sustainability analytics, focusing on carbon emissions and climate policy, I’ve seen firsthand how communicating data simply and effectively can make or break the power of a story. <br>
