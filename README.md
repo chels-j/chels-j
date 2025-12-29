@@ -2,6 +2,8 @@
 
 ![Github_banner](https://github.com/user-attachments/assets/40e836a1-5e10-40a5-958a-54fe810f01f8)
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=chels-j.chels-j)
+
 <b> After a 5 year career in the sustainabiltiy & ESG domain, I'm transitioning to a role in in data science & analytics for a variety of industries.</b> <br>
 
 I started my career as a sustainability analyst, with a degree in environmental science and a drive to make a difference. But along the way, I discovered something unexpected: a love for data. What began with simple Excel templates soon grew into a keen interest in coding and data visualization. I excel at asking insightful questions and using structured problem-solving, clean code and easy to read visuals to answer them. <br>
