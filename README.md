@@ -1,6 +1,6 @@
 # Hi, I'm Chels 👋
 
-<img width="7903" height="3162" alt="Data Profile Banner (4)" src="https://github.com/user-attachments/assets/5b8e4cb6-4390-419a-a41a-f6ef10719939" />
+![Github_banner](https://github.com/user-attachments/assets/40e836a1-5e10-40a5-958a-54fe810f01f8)
 
 <b> After a 5 year career in the sustainabiltiy & ESG domain, I'm transitioning to a role in in data science & analytics for a variety of industries.</b> <br>
 
