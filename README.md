@@ -2,8 +2,7 @@
 
 ![Github_banner](https://github.com/user-attachments/assets/40e836a1-5e10-40a5-958a-54fe810f01f8)
 
-[![Profile Views](https://komarev.com/ghpvc/?chels-j=chels-j&label=Profile%20views&color=blue&style=for-the-badge)](https://github.com/yourusername)
-
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=chels-j.chels-j)
 
 <b> After a 5 year career in the sustainabiltiy & ESG domain, I'm transitioning to a role in in data science & analytics for a variety of industries.</b> <br>
 
