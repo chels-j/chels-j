@@ -6,15 +6,15 @@
 
 I started my career as a sustainability analyst, with a degree in environmental science and a drive to make a difference. But along the way, I discovered something unexpected: a love for data. What began with simple Excel templates soon grew into a keen interest in coding and data visualization. I excel at asking insightful questions and using structured problem-solving, clean code and easy to read visuals to answer them. <br>
 
-I'm happiest when I can apply my knack for data-driven analysis and problem-solving with writing. With 5+ years of experience in sustainability analytics, focusing on carbon emissions and climate policy, I’ve seen firsthand how communicating data simply and effectively can make or break the power of a story. <br>
+I'm happiest when I can apply my knack for data-driven analysis and problem-solving together with writing. With 5+ years of experience in sustainability analytics, focusing on carbon emissions and climate policy, I’ve seen firsthand how communicating data simply and effectively can make or break the power of a story. <br>
 
-Now, with an M.Sc. in Data Science from Tilburg University, I’m eager to bring my analytical skills to new domains. Beyond sustainability, I’m excited to apply my skills in Python, SQL, Power BI, machine learning and data engineering to solving problems and generating insights in sectors such as operations, marketing, HR & people analytics. <br>
+Now, with an Master's degree in Data Science from Tilburg University, I’m eager to bring my analytical skills to new domains. Beyond sustainability, I’m excited to apply my skills in Python, SQL, Power BI, machine learning and data engineering to solving problems and generating insights in sectors such as operations, marketing, HR & people analytics. <br>
 
 <b>🔎 Here you can see some of the projects I've completed to demonstrate my skillset in:</b>
 - Querying, cleaning and transforming data using Python & SQL
 - Data visualization using libraries like matplotlib and seaborn
-- Building machine learning models using scikit-learn
 - Data modeling & dashboarding using Power BI
+- Building machine learning models using scikit-learn
 - Designing data pipelines
 
 # Portfolio Guide
