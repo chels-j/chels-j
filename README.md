@@ -10,7 +10,7 @@ I started my career as a sustainability analyst, with a degree in environmental 
 
 I'm happiest when I can apply my knack for data-driven analysis and problem-solving together with writing. With 5+ years of experience in sustainability analytics, focusing on carbon emissions and climate policy, I’ve seen firsthand how communicating data simply and effectively can make or break the power of a story. <br>
 
-Now, with an Master's degree in Data Science from Tilburg University, I’m eager to bring my analytical skills to new domains. Beyond sustainability, I’m excited to apply my skills in Python, SQL, Power BI, machine learning and data engineering to solving problems and generating insights in sectors such as operations, marketing, HR & people analytics. <br>
+Now, with a Master's degree in Data Science from Tilburg University, I’m eager to bring my analytical skills to new domains. Beyond sustainability, I’m excited to apply my skills in Python, SQL, Power BI, machine learning and data engineering to solving problems and generating insights in sectors such as marketing, HR & people analytics, operations, supply chain and public policy analysis. <br>
 
 <b>🔎 Here you can see some of the projects I've completed to demonstrate my skillset in:</b>
 - Querying, cleaning and transforming data using Python & SQL
